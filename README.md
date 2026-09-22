@@ -40,9 +40,6 @@ Para este **Reto 2**, se extendió la librería creando el submódulo `mintic/en
 ├── README.md
 ├── requirements.txt
 ├── main.py
-├── data/
-│   ├── car.data
-│   └── sample_dataset.csv
 └── mintic/
     ├── __init__.py
     ├── eda/
