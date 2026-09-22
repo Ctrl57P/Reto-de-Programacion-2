@@ -16,8 +16,9 @@ TAREA 2 - RETO DE PROGRAMACION - Random Forest (Bosques aleatorios)
 
 Plantilla base del curso de Minería de Datos
 
-**Pineda Lab**
 **ENES Morelia, UNAM**
+
+--------------------------------------------------------------------------------------
 
 ## Sobre el proyecto
 
