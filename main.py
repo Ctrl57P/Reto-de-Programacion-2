@@ -17,7 +17,10 @@ try:
     
     X_test = X[:10]
     predictions = predict_ensemble(forest, X_test)
-    
-    print("El código corre sin errores")
+
+    print("Muestra de los resultados del ensamble:")
+    for i, prediccion in enumerate(predictions[:10], start=1):
+        print(f"Predicción {i}: {prediccion}")
+
 except Exception as e:
-    print(f"Ocurrió un error: {e}")
+    print(f"Ocurrió un error durante la ejecución: {e}")
