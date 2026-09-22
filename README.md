@@ -2,6 +2,7 @@
 
 --------------------------------------------------------------------------------------
 DATOS:
+
     CRISTIAN LOPEZ GARCIA 
         42300623-4
         TECNOLOGIA PARA LA INFORMACION EN CIENCIAS
@@ -9,6 +10,8 @@ DATOS:
     MINERIA DE DATOS
 
 TAREA 2 - RETO DE PROGRAMACION - Random Forest (Bosques aleatorios)
+
+
 --------------------------------------------------------------------------------------
 
 Plantilla base del curso de Minería de Datos
