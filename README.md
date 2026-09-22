@@ -37,7 +37,6 @@ Para este **Reto 2**, se extendió la librería creando el submódulo `mintic/en
 
 ```text
 .
-├── .gitignore
 ├── README.md
 ├── requirements.txt
 ├── main.py
